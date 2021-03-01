@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# An exerciseto build a bash script to automate creating user accounts
+# An exercise to build a bash script to automate creating user accounts
 # Script outline provided in these instructions from https://www.udemy.com/course/linux-shell-scripting-projects/learn/lecture/7981796#questions/10167940
 
 	# Enforces that it be executed with superuser (root) privileges.  If the script is not executed with superuser privileges it will not attempt to create a user and returns an exit status of 1.
